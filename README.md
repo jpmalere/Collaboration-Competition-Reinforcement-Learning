@@ -25,9 +25,12 @@ The following packages are necessary to run the code:
 The following files are necessary to run the code:
 - ```model.py```
 - ```ddpg_agent.py```
--```ReplayBuffer.py```
+
+- ```ReplayBuffer.py```
 
 The following Python version was used: ```Python 3.6```
+
+The following Windows version was used: ```Windows 7```
 
 ### 3. Instructions
 
