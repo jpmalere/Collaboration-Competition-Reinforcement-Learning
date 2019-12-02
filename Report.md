@@ -27,7 +27,7 @@ The criteria for choosing the number of layers and the number of neurons was fro
 The batch size was increased (from from 128 to 250) to improve the agent score for this configuration.
 
 The graph below shows the score per episode during the training time.
-![result](https://user-images.githubusercontent.com/8217602/68792214-a9c66a00-0629-11ea-8067-8e1fd2db4383.png)
+![result](https://user-images.githubusercontent.com/8217602/69991960-6cb60f00-1527-11ea-82f9-39ed22563371.png)
 
 ### 3. Discussion and future works
 
