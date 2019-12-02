@@ -38,5 +38,5 @@ In order to run the code, execute the steps provided on the ```Tennis.ipynb``` n
 
 ### 4. More about the method
 
-The ```Report.md``` contains more information about the deep deterministic policy gradient method.
+The ```Report.md``` contains more information about the multi-agent deep deterministic policy gradient method.
 
