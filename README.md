@@ -27,8 +27,7 @@ The following files are necessary to run the code:
 - ```ddpg_agent.py```
 -```ReplayBuffer.py```
 
-The following Python version was used:
--```Python 3.6```
+The following Python version was used: ```Python 3.6```
 
 ### 3. Instructions
 
